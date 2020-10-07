@@ -1,1 +1,0 @@
-Java-EJB-Simple
